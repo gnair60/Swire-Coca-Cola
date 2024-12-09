@@ -8,32 +8,12 @@ Unplanned equipment failures disrupt industrial operations, leading to significa
 
 Industrial equipment downtime presents significant challenges that impact efficiency, costs, and resource management. Unexpected failures disrupt operations, leading to delays, underutilization of resources, and cascading inefficiencies across interconnected processes. These unplanned breakdowns also escalate operational expenses through emergency repairs, mismanagement of spare parts, and halted production cycles. Moreover, reactive maintenance substantially strains resources, diverting time and effort from strategic, long-term objectives. Addressing these challenges is critical to ensuring operational continuity, cost-effectiveness, and sustainable growth.
 
-
-## Project Objective
-
-The transition from reactive maintenance to predictive strategies ensures smooth operations, reduced costs, and optimal resource utilization.
-
 ## Solution
 
 Our group implemented a robust predictive maintenance framework to address the critical challenge of unplanned equipment downtime and its associated costs. By leveraging historical operational and maintenance data, we developed a Failure Risk Score to identify high-risk equipment and prioritize maintenance activities. This score combines metrics such as Time Used to Lifespan Ratio, Maintenance Frequency, and Maintenance Duration Deviation, enabling a comprehensive evaluation of equipment reliability.
 Additionally, we utilized supervised learning techniques to predict future maintenance dates, ensuring timely preventive actions. Our model forecasts each machine's next five maintenance dates, empowering stakeholders to proactively schedule resources, minimize downtime, and enhance overall operational efficiency.
 To support real-time decision-making, we developed interactive Power BI dashboards, offering stakeholders an intuitive interface to monitor equipment status, risk levels, and upcoming maintenance schedules across all production locations. These dashboards include functionality for email alerts, ensuring that preventive measures are triggered automatically when risk thresholds are met.
 Finally, our solution extends beyond immediate operational improvements by recommending integrating IoT sensor data for dynamic feedback, further enhancing predictive accuracy. This comprehensive approach mitigates financial losses, optimizes resource allocation, reduces operational strain, and fosters a culture of proactive maintenance across the organization.
-
-
-## Key Features
-Failure Risk Score:
-  Quantifies the likelihood of machine failure, helping prioritize maintenance needs.
-  Combines operational data and maintenance patterns to create a robust metric.
-  
-Maintenance Forecasting:
-  Predicts the following five maintenance dates for each piece of equipment.
-  Flags high-risk equipment requiring urgent attention.
-  
-Real-Time Insights:
-  Power BI dashboards provide actionable insights for monitoring equipment status, upcoming maintenance, and failure risk levels.
-
-
 
 ## Business Value
 
