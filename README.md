@@ -25,9 +25,11 @@ Finally, our solution extends beyond immediate operational improvements by recom
 Failure Risk Score:
   Quantifies the likelihood of machine failure, helping prioritize maintenance needs.
   Combines operational data and maintenance patterns to create a robust metric.
+  
 Maintenance Forecasting:
   Predicts the following five maintenance dates for each piece of equipment.
   Flags high-risk equipment requiring urgent attention.
+  
 Real-Time Insights:
   Power BI dashboards provide actionable insights for monitoring equipment status, upcoming maintenance, and failure risk levels.
 
